@@ -21,7 +21,7 @@ The main benefits are time saving and standardization. IaC will provide and mana
 
 # IaC Web Script (iacweb.sh)
 
-### In this project I created a script where a web server was provisioned automatically.
+### In this project I created a script where a web server is automatically provisioned. This includes infrastructure specifications, making it easier to edit and distribute configurations. IaC also ensures that the same environment is provisioned every time.
 
 ## **What is a Webserver?**
 
