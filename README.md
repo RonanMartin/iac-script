@@ -1,6 +1,6 @@
 # IaC Script
 
-### Infrastructure as Code (IaC) replace the manual process with code. The purpose is to create configuration files that include specifications about your infrastructure. Always guaranteeing the same provisioning.
+Infrastructure as Code (IaC) replace the manual process with code. The purpose is to create configuration files that include specifications about your infrastructure. Always guaranteeing the same provisioning.
 
 ## **Version Control**
 
@@ -21,7 +21,7 @@ The main benefits are time saving and standardization. IaC will provide and mana
 
 # IaC Web Script (iacweb.sh)
 
-### In this project I created a script where a web server is automatically provisioned. This includes infrastructure specifications, making it easier to edit and distribute configurations. IaC also ensures that the same environment is provisioned every time.
+In this project I created a script where a web server is automatically provisioned. This includes infrastructure specifications, making it easier to edit and distribute configurations. IaC also ensures that the same environment is provisioned every time.
 
 ## **What is a Webserver?**
 
